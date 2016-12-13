@@ -2,8 +2,8 @@
     "name": "staruml.elements-cleaner",
     "title": "Elements Cleaner",
     "description": "Searches inside the project for all the items that have nothing connected and shows them inside a list where the user can choose to remove each element.",
-    "homepage": "",
-    "issues": "",
+    "homepage": "https://github.com/zillemarco/StarUML_ElementsCleaner",
+    "issues": "https://github.com/zillemarco/StarUML_ElementsCleaner/issues",
     "version": "0.0.1",
     "keywords": ["cleaner", "elements remove", "remove"],
     "author": {
