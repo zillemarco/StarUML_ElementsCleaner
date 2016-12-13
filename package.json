@@ -1,0 +1,18 @@
+{
+    "name": "staruml.elements-cleaner",
+    "title": "Elements Cleaner",
+    "description": "Searches inside the project for all the items that have nothing connected and shows them inside a list where the user can choose to remove each element.",
+    "homepage": "",
+    "issues": "",
+    "version": "0.0.1",
+    "keywords": ["cleaner", "elements remove", "remove"],
+    "author": {
+        "name": "Marco Zille",
+        "email": "marco.zille@live.com",
+        "url": "https://github.com/zillemarco"
+    },
+    "license": "GNU GPL",
+    "engines": {
+        "staruml": ">=2.0.0"
+    }
+}
